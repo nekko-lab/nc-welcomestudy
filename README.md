@@ -1,9 +1,9 @@
-# Nekko Cloud Team 新入生歓迎イベント "Welcome Study" 20XX
+# Nekko Cloud Team 新入生歓迎イベント "Welcome Study" 20XX <img src="./logo/nc.icon.png" width="24"> <img src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" width="28">
 
 X(Twitter): `#ncws20XX` 
 
-<div style="text-align: center;"><img src="./images/logo/logo.png" /></div>
-Powered by
+**Powered by**  
+<div style="text-align: center;"><img src="./logo/nc.logo.png"></div>
 
 ---
 
@@ -11,7 +11,7 @@ Powered by
 
 <img src="./images/20XX/theme.png" width="100">
 
-### About
+### Overview
 
 hogehoge
 
